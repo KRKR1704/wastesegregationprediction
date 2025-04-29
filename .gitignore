@@ -1,6 +1,5 @@
 dataset/
 static/
-app.py
 load_model.py
 predictall.py
 traine.py
