@@ -1,2 +1,7 @@
 dataset/
 static/
+load_model.py
+predictall.py
+traine.py
+trainr.py
+trainm.py
